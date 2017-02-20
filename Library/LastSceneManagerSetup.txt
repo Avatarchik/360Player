@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/EasyMovieTexture/Scene/Demo_Sphere.unity
+  isLoaded: 1
+  isActive: 1
